@@ -1,0 +1,12 @@
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\bin\Debug\CodeJudge.exe.config
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\bin\Debug\CodeJudge.exe
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\bin\Debug\CodeJudge.pdb
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\bin\Debug\CSkin.dll
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\bin\Debug\CSkin.xml
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\CodeJudge.Form1.resources
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\CodeJudge.Properties.Resources.resources
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\CodeJudge.exe
+D:\DEBUG\C#_DEBUG\CodeJudge\CodeJudge\obj\x86\Debug\CodeJudge.pdb
